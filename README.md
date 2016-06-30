@@ -2,9 +2,9 @@
 I throw errors to help you test error logging on websites. Your error logger should ignore my errors or your logs will be plagued by broken browser extensions
 
 # How to Install
-1. Download [chrome-error-thrower.crx](http://github.com/rodmcnew/chrome-error-thrower-chrome-plugin/raw/master/chrome-error-thrower.crx).
+1. Download [chrome-error-thrower.crx](https://github.com/rodmcnew/chrome-error-thrower/raw/master/chrome-error-thrower.crx).
 2. Type chrome://extensions in Chrome's address bar to open the extensions window.
-3. Drag [chrome-error-thrower.crx](http://github.com/rodmcnew/chrome-error-thrower-chrome-plugin/raw/master/chrome-error-thrower.crx) onto Chrome's extensions window.
+3. Drag [chrome-error-thrower.crx](https://github.com/rodmcnew/chrome-error-thrower/raw/master/chrome-error-thrower.crx) onto Chrome's extensions window.
 
 # BSD License:
  Copyright (c) 2015, Rod Mcnew (rodmcnew@gmail.com)
