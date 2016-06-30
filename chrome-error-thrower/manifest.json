@@ -1,0 +1,15 @@
+{
+    "name": "Chrome Error Thrower",
+    "version": "1",
+    "manifest_version": 2,
+    "description": "I throw errors to help you test error logging on websites. Your error logger should ignore my errors or your logs will be plagued by broken browser extensions",
+    "browser_action": {
+        "name": "Manipulate DOM",
+        "icons": ["icon.png"],
+        "default_icon": "icon.png"
+    },
+    "content_scripts": [ {
+        "js": [ "jquery.js", "main.js" ],
+        "matches": [ "https://*/*"]
+    }]
+}
